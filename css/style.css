@@ -1,0 +1,83 @@
+#header{
+	background-color: #008265;
+	font-size: 18pt;
+
+	
+}
+#title{
+	padding-left: 35%;
+}
+#body{
+	background-color: #DDDDDD;
+	padding:5%;
+	padding-bottom: 10%;
+}
+
+#footer{
+	background-color: #008265;
+	margin: -10;
+}
+
+#bannerImage{
+	width: 65%;
+}
+
+#errorMessage{
+	color: #FF0000;
+}
+
+#seasonalImage{
+	float: right;
+}
+
+body{	
+	background-color:#572600;
+}
+
+
+.banner{
+	padding-left: 10%;
+}
+
+.navbar{
+	padding: 0;
+	margin: 0;
+}
+
+.horizontalNavbar{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #DDDDDD; 
+}
+
+li.navbar {
+    float: left;
+
+}
+
+li.navbar a.navbar {
+    display: block;
+    padding: 10% 25% 10% 25%;
+    background-color: #DDDDDD;
+    text-align: center;
+
+}
+
+li a:hover:not(.active) {
+    background-color: #33334C;
+}
+
+.active {
+	float: left;
+    display: block;
+    padding: 10%;
+    padding-right: 25%;
+    background-color: #4CAF50;
+}
+
+/*   Quick Colours  */
+/*#008265 - DC Green*/
+/*#572600 - DC Brown*/
+  
